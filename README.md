@@ -10,8 +10,6 @@ not take more than 150 ms).
 of a particular Input Cordinate Set(API should not take more than 200 ms).
 
 a.You can use H2 database or MySql on localhost.
-b. create a private repository and share the branch with me 
-suman.chatterje@inqube.biz.
 c. It can be a Springboot, Spring MVC or JAX-RS application
 
 
